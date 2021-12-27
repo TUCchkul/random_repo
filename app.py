@@ -59,3 +59,6 @@ if __name__ == '__main__':
 
 
 #  class definition for flax
+
+# new variable to be added
+# new variable to be added
