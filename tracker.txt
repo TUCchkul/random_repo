@@ -1,3 +1,9 @@
 fruitsämango
-cherry
-banana
+
+
+
+
+tiger
+deer 
+dog
+monkey
