@@ -7,3 +7,10 @@ tiger
 deer 
 dog
 monkey
+
+
+
+ french
+ spanish
+ german
+ dutch
